@@ -276,9 +276,9 @@ The final section of the notebook includes a built-in UI (via `ipywidgets`) that
 
 This project was built collaboratively by:
 
+- **NourEl-Din Abdel-Khalek Zahran**
 - **Romysaa Mohamed Qotb** 
 - **Mazen Hussein AL-Borkan** 
-- **NourEl-Din Abdel-Khalek Zahran**
 - **Bavly Nashaat Nageh**
 - **Mahmoud Abdel Hamid Abdel Rahman** 
 
